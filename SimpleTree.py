@@ -1,6 +1,7 @@
 # ДЕРЕВЬЯ
 # Реализация простого дерева (общий случай) и его методов.
 
+
 class SimpleTreeNode:
     def __init__(self, val, parent):
         self.NodeValue = val    # значение в узле
