@@ -15,6 +15,7 @@ class BalancedBST:
     def __init__(self):
     	self.Root = None # корень дерева
 
+
     # создаём дерево с нуля из неотсортированного массива a
     def GenerateTree(self, a):
 	
