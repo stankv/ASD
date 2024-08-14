@@ -1,3 +1,4 @@
+# Тесты методов бинарного дерева (aBST), реализованного на массиве
 import unittest
 from aBST import aBST
 
